@@ -1,0 +1,11 @@
+{
+  "name": "tab-to-escape-brackets",
+  "main": "./lib/tab-to-escape-brackets",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "repository": "https://github.com/lee-dohm/tab-to-escape-brackets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
